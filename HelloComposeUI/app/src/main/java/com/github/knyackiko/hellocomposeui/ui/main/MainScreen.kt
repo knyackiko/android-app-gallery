@@ -10,6 +10,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.github.knyackiko.hellocomposeui.ui.composables.*
 import com.github.knyackiko.hellocomposeui.ui.composables.button.PreviewOutlinedButton1
 import com.github.knyackiko.hellocomposeui.ui.composables.button.PreviewOutlinedButton2
+import com.github.knyackiko.hellocomposeui.ui.composables.button.PreviewOutlinedButton3
 
 @Composable
 fun MainScreen() {
@@ -25,6 +26,7 @@ fun MainScreen() {
             PreviewMarker4()
             PreviewOutlinedButton1()
             PreviewOutlinedButton2()
+            PreviewOutlinedButton3()
         }
     }
 }
